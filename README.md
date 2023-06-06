@@ -1,2 +1,2 @@
-# setu-design-round-terraform
-Setu Design Round Implementation using terraform
+# s-design-round-terraform
+S Design Round Implementation using terraform
